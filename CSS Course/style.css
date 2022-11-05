@@ -1,0 +1,44 @@
+h1 {
+    color: goldenrod;
+    font-size: 190%;
+    background-color: aquamarine;
+}
+
+p {
+    color: red;
+    font-size: 30px;
+    font-weight: 900;
+    font-family: sans-serif;
+}
+
+img {
+    width: 20%;
+}
+
+#name {
+    font-size: 40px;
+    color: slateblue;
+}
+.friend{
+    background-color: greenyellow;
+}
+.neighbor{
+    width: 200px;
+}
+.romantic{
+    color: burlywood;
+}
+.blog{
+    border: 1px solid green;
+    border-radius: 20px;
+    margin: 1%;
+    width: 30%;
+    display: inline-block;
+    
+}
+h3{
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
